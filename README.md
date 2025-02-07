@@ -52,7 +52,7 @@ The project includes several SQL queries aimed at providing key insights:
 ## How to Use This Project
 1. Clone the repository to your local machine:
    ```bash
-   [git clone [https://github.com/vengotimuktha/customers-products-analysis-sql.git]](https://github.com/vengotimuktha/customers-products-analysis-sql.git)
+     https://github.com/vengotimuktha/customers-products-analysis-sql.git
    ```
 
 2. Set up the database with the provided SQL schema and insert sample data into the tables.
