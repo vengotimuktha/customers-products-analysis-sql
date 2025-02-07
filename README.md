@@ -1,7 +1,4 @@
 # customers-products-analysis-sql
-SQL project analyzing on customer behavior and product sales.
-
-Here's a detailed and humanized README for your "Customers and Products Analysis Using SQL" project:
 
 ---
 
